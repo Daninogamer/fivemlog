@@ -4,7 +4,7 @@
 	<img src="https://img.shields.io/github/license/Prefech/JD_logs.png">
 	<img src="https://img.shields.io/github/issues/Prefech/JD_logs.png">
 	<img src="https://img.shields.io/github/contributors/Prefech/JD_logs.png">
-	<a href="https://discord.gg/prefech" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
+	
 </h4>
 
   <h1 align="center">Daniel_logs</h1>
