@@ -4,14 +4,6 @@
 
   <p align="center">
     This is a server log script for FiveM, which is used to log certain actions that are being made in the server.
-    <br />
-    <a href="https://github.com/prefech/JD_logs/wiki"><strong>Explore wiki »</strong></a>
-    <br />
-    <br />    
-    <a href="https://github.com/Prefech/JD_logs/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Prefech/JD_logs/issues">Request Feature</a>
-  </p>
 
 
 
