@@ -19,8 +19,7 @@
     ·
     <a href="https://github.com/Prefech/JD_logs/issues">Request Feature</a>
   </p>
-  <a href="https://discord.gg/prefech" title=""><img alt="Discord Invite" src="https://discordapp.com/api/guilds/721339695199682611/widget.png?style=banner2"></a>
-</div>
+
 
 
 
