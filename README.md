@@ -1,11 +1,4 @@
-<h4 align="center">
-	<img src="https://img.shields.io/github/release/Prefech/JD_logs.png">
-	<img src="https://img.shields.io/github/last-commit/Prefech/JD_logs">
-	<img src="https://img.shields.io/github/license/Prefech/JD_logs.png">
-	<img src="https://img.shields.io/github/issues/Prefech/JD_logs.png">
-	<img src="https://img.shields.io/github/contributors/Prefech/JD_logs.png">
-	
-</h4>
+
 
   <h1 align="center">Daniel_logs</h1>
 
