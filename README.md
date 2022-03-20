@@ -7,11 +7,6 @@
 	<a href="https://discord.gg/prefech" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 </h4>
 
-<div align="center">
-  <a href="https://github.com/Prefech/JD_logs">
-    <img src="https://i.gyazo.com/3894b03d4351bcb566ec85afc7f9b231.png">
-  </a>
-
   <h1 align="center">Daniel_logs</h1>
 
   <p align="center">
