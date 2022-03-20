@@ -12,7 +12,7 @@
     <img src="https://i.gyazo.com/3894b03d4351bcb566ec85afc7f9b231.png">
   </a>
 
-  <h1 align="center">JD_logs</h1>
+  <h1 align="center">Daniel_logs</h1>
 
   <p align="center">
     This is a server log script for FiveM, which is used to log certain actions that are being made in the server.
@@ -55,5 +55,3 @@
 ```
 ensure JD_logs
 ```
-
-### ❓ For more questions you can join the discord here: https://discord.gg/prefech
